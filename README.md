@@ -18,6 +18,7 @@ The tool allows:
 - Marketing teams to design **targeted strategies**
 - Businesses to **personalize offers**
 - Analysts to **explore patterns** in customer behavior
+## LIVE : https://customer-segmentation-using-kmeans-clustering.streamlit.app/
 
 ---
 
